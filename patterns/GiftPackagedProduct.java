@@ -1,4 +1,4 @@
-package patterns; // <-- Було patterns.decorator
+package patterns; 
 
 import oop.Product;
 
